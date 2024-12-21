@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-This is an exciting project not actually project.Its a single page advertisement and knowledge hub for the quantum wave company
-It somehow kinda legitimizes the company
+This is an exciting project not actually project.Its a single page advertisement and knowledge hub for the quantum ripple company
+
 
 ## Getting Started
 
